@@ -1,2 +1,9 @@
-# SystemProgramming
-HYU_CSE4009 (시스템프로그래밍)
+# Hanyang University _ SystemProgramming
+
+## Professor :  Woong Sul
+
+### Project1 : bits.c
+
+### Project2 : bomb.c
+
+### Project3 : shlab
